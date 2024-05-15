@@ -1,0 +1,17 @@
+.sec1
+{
+    background-color: #c3ffc3;
+    border: 3px solid green;
+    color: green;
+    margin: auto;
+    text-align: center;
+}
+
+.layout
+{
+    background-color: green;
+    background: url(../imagens/paisagem.webp);
+    background-repeat: no-repeat;
+    border: 3px solid green;
+    height: 500px;
+}

@@ -1,0 +1,18 @@
+header
+{
+    background-color: #fffbde;
+    border: 3px solid #ffff00;
+    color: #525200;
+    max-width: 100%;
+}
+
+.cabecalho
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav
+{
+    margin-top: 2rem;
+}

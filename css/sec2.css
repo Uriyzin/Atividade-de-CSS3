@@ -1,0 +1,29 @@
+.sec2
+{
+    background-color: #ceeffa;
+    border: 3px solid blue;
+    color: blue;
+    display: flex;
+    height: 400px;
+    padding: 3rem;
+}
+
+.card1
+{
+    border: 3px solid blue;
+    padding: 2rem;
+}
+
+.card2
+{
+    border: 3px solid blue;
+    padding: 2rem;
+    margin-left: 10px;
+    margin-right: 10px
+}
+
+.card3
+{
+    border: 3px solid blue;
+    padding: 2rem;
+}

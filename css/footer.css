@@ -1,0 +1,20 @@
+footer
+{
+    background-color: #fffbde;
+    border: 3px solid #ffff00;
+    color: #525200;
+    margin: auto;
+}
+
+.pe
+{
+    text-align: center;
+    padding: 2rem;
+}
+
+footer h4
+{
+    background-color: #fffad2;
+    border: 3px solid #ffff00;
+    padding: 10px;
+}
